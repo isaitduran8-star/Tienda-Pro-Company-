@@ -1,2 +1,3 @@
 # rol|usuario|nombre_publico
 superadmin | aplicaciones company | aplicaciones company
+creador | Soporte para Jieshuo. | Soporte para Jieshuo.
