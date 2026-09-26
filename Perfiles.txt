@@ -1,3 +1,2 @@
 # rol|usuario|nombre_publico
 superadmin | aplicaciones company | aplicaciones company
-creador | Daniel el tecnológico | Daniel el tecnológico
